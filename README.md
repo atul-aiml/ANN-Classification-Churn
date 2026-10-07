@@ -227,6 +227,6 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 **Atul Choudhary**
 
 - GitHub: [@atul-aiml](https://github.com/atul-aiml)
-- LinkedIn: _add your profile link here_
+- LinkedIn: [@atul-cse](https://www.linkedin.com/in/atul-cse/)
 
 If you found this project useful, consider giving it a star.
