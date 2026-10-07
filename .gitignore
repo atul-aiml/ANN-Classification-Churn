@@ -1,0 +1,22 @@
+# Virtual environment
+venv/
+.venv/
+
+# TensorBoard logs
+logs/
+regressionlogs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and environment files
+.env
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
